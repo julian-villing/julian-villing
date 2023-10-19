@@ -1,6 +1,6 @@
 ## About me
 
-he/him, Software Developer
+he/him, Software Developer. Feel free to take a look at my [CV](cv.pdf)
 
 ## Scientific research
 
